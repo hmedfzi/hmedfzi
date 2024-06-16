@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hmedfzi
-- 👀 I’m interested in web developing  and machine learning
+- 👀 I’m interested in web development  and machine learning
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me :  t.me/hmedfzi
 
